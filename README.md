@@ -1,14 +1,7 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://github.com/NaUrovne/NaUrovne/blob/main/ab1de400-ffe4-11e9-95ed-21adbb3f5d91.png)
+### Hi there 👋,  my name is Albert
+#### Opened for exciting data focused challenges
+![Opened for exciting data focused challenges]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/NaUrovne/NaUrovne/blob/main/ab1de400-ffe4-11e9-95ed-21adbb3f5d91.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+A Computer System Engineering graduate with a penchant for data and storytelling. Analytical thinker, passionate about getting insights from data, and learning new relevant stuff to get domain expertise in different areas to complete a project.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
-
-
-
-
+Skills: Python / ML / Data Visualisation / Statistics / Analytical Methods Development
