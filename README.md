@@ -12,6 +12,5 @@ A Computer System Engineering graduate with a penchant for data and storytelling
 * Statistics
 
 
-Skills: Python / ML / Data Visualisation / Statistics / Analytical Methods Development
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NaUrovne)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/albert-narimanov-b3b4a4158/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/alnarim/)  
