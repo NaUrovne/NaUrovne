@@ -9,6 +9,7 @@ A Computer System Engineering graduate with a penchant for Data Engineering. Ana
 * 🛰️ Machine Learning
 * 📊 Data Visualisation
 * 🧠 Analytical Methods Development
+* Data Engineering 
 * Statistics
 
 
