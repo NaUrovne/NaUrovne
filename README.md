@@ -1,5 +1,5 @@
 ### Hi there 👋,  I'm Albert Narimanov
-A Computer System Engineering graduate with a penchant for Data Science/Analytics. Analytical thinker, passionate about getting insights from data, and learning new relevant stuff to get domain expertise in different areas to complete a project.
+A Computer System Engineering graduate with a penchant for Data Science. Analytical thinker, passionate about getting insights from data, and learning new relevant stuff to get domain expertise in different areas to complete a project.
 
 #### Open for exciting data focused challenges
 ![Open for exciting data focused challenges](https://github.com/NaUrovne/NaUrovne/blob/main/ab1de400-ffe4-11e9-95ed-21adbb3f5d91.png)
