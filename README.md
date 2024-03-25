@@ -3,7 +3,7 @@ A Computer System Engineering graduate with a penchant for Data Science. Analyti
      
 #### Open for exciting data focused challenges
 ![Open for exciting data focused challenges](https://github.com/NaUrovne/NaUrovne/blob/main/ab1de400-ffe4-11e9-95ed-21adbb3f5d91.png)
- 
+  
 ## Skills and Experience
 * 🐍 Python
 * 🛰️ Machine Learning
